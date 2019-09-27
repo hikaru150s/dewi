@@ -1,7 +1,7 @@
 {
   "name": "dewi",
   "version": "0.0.1",
-  "description": "Student-Teacher Matcher using AHP",
+  "description": "Student-Teacher Matcher using Analytical Hierarchy Process",
   "license": "MIT",
   "main": "app.js",
   "author": {

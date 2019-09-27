@@ -1,0 +1,19 @@
+{
+  "name": "dewi",
+  "version": "0.0.1",
+  "description": "Student-Teacher Matcher using AHP",
+  "license": "MIT",
+  "main": "app.js",
+  "author": {
+    "name": "Haikal Handamara",
+    "email": "haikal_adha@hotmail.com"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node app.js"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.5",
+    "typescript": "^3.6.3"
+  }
+}

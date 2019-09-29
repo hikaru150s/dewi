@@ -4,7 +4,7 @@
 3. Run following code on your console.
 
     ```
-    git clone https://github..com/hikaru150s/dewi.git
+    git clone https://github.com/hikaru150s/dewi.git
     cd ./dewi
     npm install
     ```
